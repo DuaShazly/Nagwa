@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nagwa Assignment</string>
+    <string name="downloading">Downloading…</string>
+    <string name="no_internet">No Internet Connection !</string>
+    <string name="must">MUST !</string>
+    <string name="error_msg">Error on Download </string>
+    <string name="downloaded_file_msg">Downloaded File </string>
+    <string name="download_file_msg">Download Complete</string>
+    <string name="download">Download</string>
+    <string name="downloading_file">Downloading File..</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="network_is_not_available">Network is not available for downloading this file</string>
+    <string name="some_thing_went_wrong">Something went wrong</string>
+    <string name="already_downloading">Please wait. Files already downloading...</string>
+
+</resources>
